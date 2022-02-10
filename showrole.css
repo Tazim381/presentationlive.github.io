@@ -1,0 +1,18 @@
+body
+{
+    background: linear-gradient(rgba(188, 228, 228, 0.5),rgb(10, 8, 6, 9.2)), url(image10.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: rgb(172, 238, 20);
+}
+
+.btn{
+    width: 140px;
+    background-color: rgb(13, 212, 212);
+    color: rgb(236, 241, 247);
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 15px;
+    border: none;
+}

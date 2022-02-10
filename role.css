@@ -1,0 +1,24 @@
+
+ html, body {
+    background: linear-gradient(rgba(163, 218, 218, 0.5),rgba(143, 192, 143, 0.5)),url(image10.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 30px;
+    color: rgb(32, 1, 9);
+    }
+    form {
+    border: 5px solid #f1f1f1;
+    }
+    input[type=text], input[type=password] {
+    width: 100%;
+    padding: 16px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    }
+   
+   

@@ -1,0 +1,10 @@
+.delete, #edit {
+    background-color: rgb(241, 14, 14);
+    padding: 4px 27px 4px 27px;
+    text-decoration: none;
+    color: whitesmoke;
+    border-radius: 20px;
+}
+#edit {
+    background-color: blue;
+}
